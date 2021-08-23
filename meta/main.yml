@@ -1,0 +1,21 @@
+---
+
+galaxy_info:
+  author: René Koch
+  description: Common tasks for molecule workshop
+  role_name: common
+  namespace: workshop
+  company: DI (FH) René Koch
+
+  issue_tracker_url: https://github.com/rk-it-at/molecule_dependency/issues
+  license: GPL-3.0-only
+  min_ansible_version: 2.9
+
+  platforms:
+    - name: CentOS
+      versions:
+        - 8
+
+  galaxy_tags: []
+
+dependencies: []
